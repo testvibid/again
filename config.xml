@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2014"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>Schoolguru</name>
 
     <description>
-        Moodle Mobile official app
+         Official App for Schoolguru
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+     <author href="http://www.vibidsoft.com" email="harshil@vibidsoft.com">
+        Harshil Shah Vibidsoft
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
